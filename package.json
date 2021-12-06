@@ -1,0 +1,20 @@
+{
+  "name": "@tlon/phonemes-js",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Urbit @P phonemes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urbit/phonemes-js.git"
+  },
+  "author": "Tlon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/urbit/phonemes-js/issues"
+  },
+  "homepage": "https://github.com/urbit/phonemes-js#readme"
+}
