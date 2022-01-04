@@ -2,7 +2,7 @@
   "name": "@tlon/phonemes-js",
   "version": "1.0.0",
   "private": false,
-  "description": "Urbit @P phonemes",
+  "description": "Urbit @p phonemes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
